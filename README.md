@@ -6,6 +6,7 @@ A web application to manage your challenges with animations. Instead of regular 
 
 ```bash
 npm install
+```
 
 ## Run the application
 
